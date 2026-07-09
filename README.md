@@ -10,7 +10,7 @@ Estudiante: Ingeniería Eléctrica en la Universidad del Valle.<br><br>Dev: Apas
 # 📊 GitHub Stats:
 ### GitHub stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kenerbotina&theme=github-dark-blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kenerbotina&theme=dracula)](https://git.io/streak-stats)
 
 ![Most Used Lenguages](https://raw.githubusercontent.com/kenerbotina/github-stats-transparent/output/generated/Lenguages.svg)
 
